@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chuck Ha</title>
-    <link>https://chuckha.github.io/</link>
-    <description>Recent content on Chuck Ha</description>
+    <title>Data Structures on Chuck Ha</title>
+    <link>https://chuckha.github.io/tags/data-structures/</link>
+    <description>Recent content in Data Structures on Chuck Ha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Oct 2017 06:42:15 -0700</lastBuildDate>
     
-	<atom:link href="https://chuckha.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chuckha.github.io/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
