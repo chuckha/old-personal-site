@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Dalli</title>
+      <link>https://chuckha.github.io/tags/dalli/</link>
+      <pubDate>Sun, 28 Jan 2018 14:28:14 -0500</pubDate>
+      
+      <guid>https://chuckha.github.io/tags/dalli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Structures</title>
       <link>https://chuckha.github.io/tags/data-structures/</link>
       <pubDate>Sun, 15 Oct 2017 06:42:15 -0700</pubDate>
@@ -41,9 +50,27 @@
     <item>
       <title>Kubernetes</title>
       <link>https://chuckha.github.io/tags/kubernetes/</link>
-      <pubDate>Sun, 15 Oct 2017 06:42:15 -0700</pubDate>
+      <pubDate>Sun, 28 Jan 2018 14:28:14 -0500</pubDate>
       
       <guid>https://chuckha.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memcached</title>
+      <link>https://chuckha.github.io/tags/memcached/</link>
+      <pubDate>Sun, 28 Jan 2018 14:28:14 -0500</pubDate>
+      
+      <guid>https://chuckha.github.io/tags/memcached/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rails</title>
+      <link>https://chuckha.github.io/tags/rails/</link>
+      <pubDate>Sun, 28 Jan 2018 14:28:14 -0500</pubDate>
+      
+      <guid>https://chuckha.github.io/tags/rails/</guid>
       <description></description>
     </item>
     

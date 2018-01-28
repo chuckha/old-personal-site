@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Chuck Ha</title>
-    <link>https://chuckha.github.io/post/</link>
-    <description>Recent content in Posts on Chuck Ha</description>
+    <title>Rails on Chuck Ha</title>
+    <link>https://chuckha.github.io/tags/rails/</link>
+    <description>Recent content in Rails on Chuck Ha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jan 2018 14:28:14 -0500</lastBuildDate>
     
-	<atom:link href="https://chuckha.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chuckha.github.io/tags/rails/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,18 +19,6 @@
       <guid>https://chuckha.github.io/post/memcached-and-rails-on-kubernetes/</guid>
       <description>I wanted to use a pool of memcached servers to back my rails cache. The dalli wiki describes a Heroku setup that uses environment variables to configure a list of memcached servers. This is exactly what I want when deploying to Kubernetes. Using environment variables allows me to avoid hardcoding the memcached host names into the application configuration code.
 However, when I set my cache_store to :dalli_store rails defaults to the FileCache.</description>
-    </item>
-    
-    <item>
-      <title>workqueue</title>
-      <link>https://chuckha.github.io/post/workqueue/</link>
-      <pubDate>Sun, 15 Oct 2017 06:42:15 -0700</pubDate>
-      
-      <guid>https://chuckha.github.io/post/workqueue/</guid>
-      <description>An example of composition in Kubernetes workqueue is a package that lives in the kubernetes/kubernetes repo (for now) under the path k8s.io/staging/client-go/utils/.
-The workqueue package exposes data structures that controllers use to manage operations on resources.
-The lowest layer of the abstraction is the basic queue with an interface that looks like this (renamed to Queue for clarity):
-type Queue interface { Add(item interface{}) Get() (item interface{}, shutdown bool) .</description>
     </item>
     
   </channel>
